@@ -34,7 +34,7 @@ function App() {
 
   return (
     <>
-      <h1 className="title">Hello world!</h1>
+      <h1 className="title">LocalStorage amb React!</h1>
 
       <div className="grid">
         {coloreado.map((actiu, i) => (
